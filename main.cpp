@@ -8,6 +8,7 @@ void usage(char *programName) {
     printf("\tsub\n");
     printf("\tdiv\n");
     printf("\tmul\n");
+    printf("\tmod\n");
     printf("\n");
 }
 
